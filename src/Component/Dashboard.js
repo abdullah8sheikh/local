@@ -6,7 +6,7 @@ const Dashboard = ({ logout }) => {
 
     return (
         <div>
-            <h1>Welcome, {user?.name}!</h1> {/* Show user's name */}
+            <h1>AAAAA, {user?.name}!</h1> {/* Show user's name */}
             <button onClick={logout}>Logout</button>
         </div>
     );
