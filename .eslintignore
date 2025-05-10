@@ -1,0 +1,14 @@
+# Ignore the LoginForm.js file
+src/Component/LoginForm.js
+
+# Ignore all files in the node_modules directory
+node_modules/
+
+# Ignore build directory
+build/
+
+# Ignore any files or directories with "test" in the name
+**/*test*
+
+# Ignore any files with the .min.js extension
+**/*.min.js
