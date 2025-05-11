@@ -22,7 +22,7 @@ const AppContent = () => {
 
 const LoginPage = () => (
     <>
-        <h1>complete pipeline</h1>
+        <h1>complete pssipeline</h1>
         <LoginForm />
         <h1>Register Page</h1>
         <RegisterForm />
